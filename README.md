@@ -1,6 +1,9 @@
 # ASCORBIK 1.0
 
+
+
 🛡️ **ASCORBIK** is an advanced open-source malware scanner written in Python. It integrates with the [VirusTotal API](https://www.virustotal.com) to perform file and URL scans, detect threats, and automatically quarantine malicious content. ASCORBIK features a user-friendly GUI, real-time logging, and recursive folder scanning for comprehensive protection.
+![arancia](https://github.com/user-attachments/assets/4ef5a5b8-cf2d-4c05-8fb3-0acfbe42a83d)
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
 ![License](https://img.shields.io/badge/License-GPLv3-blue)
